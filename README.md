@@ -1,5 +1,10 @@
 Parasut Bundle
 ==
+Install:
+```
+composer require bigoen/parasut-bundle
+```
+Set environments in .env
 ```dotenv
 ###> bigoen/parasut-bundle ###
 PARASUT_CLIENT_ID=
