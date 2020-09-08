@@ -13,7 +13,7 @@
 	"require": {
 		"php": "^7.4",
 		"ext-json": "*",
-		"bigoen/parasut": "*"
+		"bigoen/parasut": "^1.0"
 	},
 	"prefer-stable": true,
 	"autoload": {
